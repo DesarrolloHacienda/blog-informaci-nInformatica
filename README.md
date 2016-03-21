@@ -4,8 +4,11 @@
 Blog en el que  se va a publicar información interesante para gente amante de la tecnologia.
 
 [Instalación]
+  
   -Requisitos
+  
   -Versión
+  
   -Encargados del Proyecto
   
 [Uso]
